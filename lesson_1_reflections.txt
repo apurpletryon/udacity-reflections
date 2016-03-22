@@ -18,4 +18,5 @@ How might using version control make you more confident to make changes that cou
 	If you make your changes one at a time, you can easily go back to a previous version to figure out exactly where something went wrong. And your previous versions aren't lost.
 
 Now that you have your workspace set up, what do you want to try using Git for?
-	The JavaScript Udacity class.
+	The JavaScript Udacity class.com
+	
