@@ -10,3 +10,8 @@ How can you use the staging area to make sure you have one commit per logical ch
 \What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 	Branches are useful to keep track of different versions of a program, such as different languages, features, etc, each of which you may want to present to a different set of end users.
 	
+How do the diagrams help you visualize the branch structure?
+	The diagrams show relationships between each node, making it easier to understand which nodes are parents of the other and which are and are not reachable from other nodes.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	Merging two branches combines additions from both, while keeping out deletions made from either branch. The diagram shows that although these files started from the same base, they're now on two different paths.
