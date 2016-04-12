@@ -15,3 +15,6 @@ How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 	Merging two branches combines additions from both, while keeping out deletions made from either branch. The diagram shows that although these files started from the same base, they're now on two different paths.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	Manually merges are time-consuming and error-prone. Git's auto-merge will at least identify conflects for your to resolve, and, hopefully save you time.
