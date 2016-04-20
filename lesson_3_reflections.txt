@@ -5,3 +5,7 @@ Why might you want to always pull changes manually rather than having Git automa
 	You know better than when when youre changes are ready to be shared with the public. 
 
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+	Clone = copy a repository on your computer.
+	Branch = separate features point back to original in commit tree.
+	Fork = copy a repository on github without pulling it to your computer. Refers to original.
